@@ -150,7 +150,7 @@ Desventaja: procesos cortos pueden llegar a esperar mucho.
 
 A lo largo del tiempo han existido muchos dispositivos electronicos que trabajan con unidades de almacenamiento. 
 
-Ejemplos:<img src="Windows_logo.png" width="150">
+Ejemplos:
 
 - Disco duro
 - DVD
