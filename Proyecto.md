@@ -254,3 +254,5 @@ Ejemplos:
 - Actualiza el sistema linux usando:
 
 ```bash sudo apt update && sudo apt upgrade ```
+
+"Termine el examen final 4/12/2025"
